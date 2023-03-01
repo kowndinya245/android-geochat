@@ -3,6 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/GeoChat.iml" filepath="$PROJECT_DIR$/GeoChat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Milestone-4.3.iml" filepath="$PROJECT_DIR$/.idea/modules/Milestone-4.3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Milestone-4.3.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Milestone-4.3.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Milestone-4.3.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Milestone-4.3.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Milestone-4.3.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Milestone-4.3.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Milestone-4.3.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Milestone-4.3.app.unitTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
